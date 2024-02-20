@@ -5,6 +5,7 @@
     --secondary-color: #6a6a6a;
     --primary-bg-color: #fff2f2;
     --secondary-bg-color: white;
+    scroll-behavior: smooth;
 }
 body{
     background-color: var(--primary-bg-color);
